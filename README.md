@@ -1,4 +1,4 @@
-# Generate-a-random-Password
+# Random-Password-Generator
 <br>
 Project Title: Random Password Generator
 <br><br>
