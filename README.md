@@ -1,7 +1,7 @@
 # Generate-a-random-Password
 <br>
 Project Title: Random Password Generator
-<br>
+<br><br>
 Project Overview: This project focuses on developing a Random Password Generator, which allows users to generate strong, secure passwords based on their desired length. This tool can be a real-life example of a basic cybersecurity project and can also be extended to generate One-Time Passwords (OTPs) for user authentication.
 <br><br>
 Features:
